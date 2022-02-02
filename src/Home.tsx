@@ -32,7 +32,7 @@ DAM☆ともアカウントでログインいただくと, マイリストの利
 
 ### 連絡先
 
-不具合報告・バグ報告は[こちら](mailto: "nasawake.am@gmail.com")までお願いいたします.
+不具合報告・バグ報告は[こちら](mailto:nasawake.am@gmail.com)までお願いいたします.
 `;
 
 export default class Home extends React.Component {
